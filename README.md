@@ -1,4 +1,11 @@
-<h2 align="left">Hi 👋! My name is [Your Name], and I'm a passionate Game Developer from [Your Location]</h2>
+# Hi there! 👋 I'm [Nhoxboon]  
+
+🎮 **Game Developer | Indie Enthusiast | Code Wizard**  
+📍 Based in [Viet Nam]  
+
+Welcome to my GitHub! I'm passionate about building immersive games, creating innovative gameplay mechanics, and exploring the art of procedural generation. My journey as a game developer has led me to work on various 2D and 3D projects, primarily using **Unity** and **C#**, with some dives into **Unreal Engine**.  
+
+---
 
 ###
 
@@ -24,8 +31,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
 </div>
 
@@ -33,17 +38,15 @@
 
 <div align="left">
   <h3>🌟 Featured Projects</h3>
-  <ul>
-    <li><b><a href="https://github.com/yourusername/2d-platformer">2D Platformer Adventure</a></b>  
-      <small>Classic 2D platformer game inspired by *Celeste*. Includes collectibles and boss fights!</small>
-    </li>
-    <li><b><a href="https://github.com/yourusername/ai-fps-demo">AI-Driven FPS Demo</a></b>  
-      <small>First-person shooter with intelligent enemy behavior using behavior trees.</small>
-    </li>
-    <li><b><a href="https://github.com/yourusername/procedural-terrain">Procedural Terrain Generator</a></b>  
-      <small>A Unity tool for creating terrains with Perlin noise for open-world games.</small>
-    </li>
-  </ul>
+
+### [1. 2D Platformer Adventure](https://github.com/yourusername/2d-platformer)
+A classic 2D platformer inspired by *Celeste* and *Hollow Knight*. Includes:
+- Dynamic character controls (run, jump, climb)
+- Enemy AI and boss fights
+- Collectibles system  
+![Platformer GIF](https://via.placeholder.com/600x300)  
+
+---
 </div>
 
 ###
@@ -55,6 +58,12 @@
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
 </div>
 
+I'm always open to collaborating on exciting game projects or contributing to open-source initiatives!
+
+---
+
+*“Games are the only form of art where the audience can directly participate in the creative process.”* – Will Wright
+
 ###
 
 <br clear="both">
@@ -62,3 +71,5 @@
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 ###
+
+
