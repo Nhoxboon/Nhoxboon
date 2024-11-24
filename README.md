@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Nhoxboon/Nhoxboon/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Nhoxboon/Nhoxboon/blob/main/snake.yml" alt="Snake animation" />
 
 ###
