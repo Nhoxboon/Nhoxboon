@@ -1,65 +1,21 @@
-# Hi there! 👋 I'm [Nhoxboom]  
+<h1 align="center">Hi 👋, I'm Nhoxboon</h1>
+<h3 align="center">I'm now on the way to be a game developer</h3>
 
-🎮 **Game Developer | Indie Enthusiast | Code Wizard**  
-📍 Based in [Viet Nam]  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhoxboon&label=Profile%20views&color=0e75b6&style=flat" alt="nhoxboon" /> </p>
 
-Welcome to my GitHub! I'm passionate about building immersive games, creating innovative gameplay mechanics, and exploring the art of procedural generation. My journey as a game developer has led me to work on various 2D and 3D projects, primarily using **Unity** and **C#**, with some dives into **Unreal Engine** and **Blender** for game assets.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhoxboon" alt="nhoxboon" /></a> </p>
 
----
+- 🔭 I’m currently working on [Mega-man](https://github.com/Nhoxboon/Mega-man.git)
 
-## 🚀 **My Skillset**
-- **Languages**: C#, C++, Python, ShaderLab  
-- **Game Engines**: Unity, Unreal Engine, Godot  
-- **Tools**: Git, Blender, Photoshop, Substance Painter  
-- **Game Design**: Gameplay Mechanics, AI Systems, Procedural Generation  
+- 📫 How to reach me **trannhatanh156@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 📂 **Featured Projects**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### [1. 2D Platformer Adventure](https://github.com/yourusername/2d-platformer)
-A classic 2D platformer inspired by *Celeste* and *Hollow Knight*. Includes:
-- Dynamic character controls (run, jump, climb)
-- Enemy AI and boss fights
-- Collectibles system  
-![Platformer GIF](https://via.placeholder.com/600x300)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhoxboon&show_icons=true&locale=en&layout=compact" alt="nhoxboon" /></p>
 
----
-
-### [2. AI-Driven FPS Demo](https://github.com/yourusername/ai-fps-demo)
-A first-person shooter demo with smart enemy AI using behavior trees:
-- Pathfinding with A* algorithm
-- Dynamic difficulty adjustment  
-![FPS GIF](https://via.placeholder.com/600x300)  
-
----
-
-### [3. Procedural Terrain Generator](https://github.com/yourusername/procedural-terrain)
-A Unity tool for generating realistic terrains using Perlin noise. Perfect for open-world games!  
-![Terrain GIF](https://via.placeholder.com/600x300)  
-
----
-
-## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-
----
-
-## 🌱 **What I'm Learning**
-- Advanced shader programming with HLSL
-- Multiplayer networking for real-time games  
-- Level design and storytelling techniques  
-
----
-
-## 🤝 **Let's Collaborate!**
-- **Portfolio**: [Your Portfolio Link]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [Your Email Address]  
-
-I'm always open to collaborating on exciting game projects or contributing to open-source initiatives!
-
----
-
-*“Games are the only form of art where the audience can directly participate in the creative process.”* – Will Wright
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhoxboon&show_icons=true&locale=en" alt="nhoxboon" /></p>
