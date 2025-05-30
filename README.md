@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm passionate about building immersive games, creating in
 
 <div align="left">
   <h3>📬 Connect with Me</h3>
-  <img src="www.linkedin.com/in/nhật-anh-trần-156a79368" height="35" alt="linkedin logo" />
+  <img src="www.linkedin.com/in/nhật-anh-trần-156a79368](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="linkedin logo" />
   <a href="mailto:trannhatanh156@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
