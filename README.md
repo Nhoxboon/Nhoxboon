@@ -67,7 +67,7 @@ A classic 2D platformer inspired by *Celeste* and *Mega-man X*. Includes:
 - Multiweapon system
 - Dialogue system
 
-![Platformer GIF](https://photos.app.goo.gl/wV6MCytJhWDbYwHF6)
+![Platformer GIF](https://github.com/Nhoxboon/Nhoxboon/blob/dba99b2c06caa706fb91ba5f329f8b44acf93ecb/nbKRGk.png)
 
 </div>
 
