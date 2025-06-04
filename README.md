@@ -65,7 +65,7 @@ A classic 2D platformer inspired by *Celeste* and *Mega-man X*. Includes:
 - Dynamic character controls (run, jump, climb)
 - Enemy AI and boss fights
 - Collectibles system  
-![Platformer GIF](https://via.placeholder.com/600x300)  
+![Platformer GIF](blob:https://www.facebook.com/61a70689-9e7b-47f0-bbd9-222732edb6c8)  
 
 
 
