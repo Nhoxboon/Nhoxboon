@@ -62,10 +62,11 @@ Welcome to my GitHub! I'm passionate about building immersive games, creating in
 
 ### [1. 2D Platformer Adventure](https://github.com/Nhoxboon/Pro_3.git)
 A classic 2D platformer inspired by *Celeste* and *Mega-man X*. Includes:
-- Dynamic character controls (run, jump, climb)
+- Dynamic character controls (run, jump, climb, wallslide, walljump)
 - Enemy AI and boss fights
-- Collectibles system  
-![Platformer GIF](blob:https://www.facebook.com/61a70689-9e7b-47f0-bbd9-222732edb6c8)  
+- Multiweapon system
+- Dialogue system
+![Platformer GIF](https://lh3.googleusercontent.com/pw/AP1GczMdyjVLB5keBWaJSnV8QwNdIUtQJtWbgr0HGbAxODhwJVDLe7cN_7I13tuz37p_h3Y8Y4c22Jb7hKiiOElI5ob1fHaie_836l5ac0Z2qzE0KCCO_Lu9gseLk2zeqMwJnqBjxeD_wa3wlmv-2LgmwMfh_21JD7qmS7Sp4NeHRF4UKhOWlc8DIRjmmBsg6jreogqRMSn7RRA0eRkIcq0PfwtCeFjjfNYiVaCCtVvCGyWcqh7av0XbAOjmeoAEhv_wIqMX-8O3LFQAxZ65VDxil1CW6pDmiA_1NNxx5nHfJ52Gv1Mc6lGbH9ADSudyGy864tkZUT-ZkUzd0d6SKzSwGQyGd6gZ7iumJCPJburX4myADkwXaPfQe0JPjh9snpZ-93UHIfKOYNpk9IN9buH5A15D4ivWrS7mpXAUuUd5O_StjjR7YRZP8pSPK-zN1MrdhgVWjp0DX4iJROjZQy7nfMgigFbBL5dA1sLwpWE5cGhihd7tG9FHpBRmqIOP0qjXYfG6RGC9Rx15IoBfVusTVMq8V_s1y6t7Jf5JMp3mgiLtNAp87YWQDmOGHxxr85UAZ8uZs9N0ewjVKcEi9ysI9M40Wuedb-rTvSBqsx4w9ktaWv5-eCLQLCu42IguLwfIAtZM9erqHXhkdeeLBH4r-XG46Mwm4kog2Vo4WOCoFqWvRBR10qvueKyqHeov9bNtoPRbM5wxjeztnIfCvwCDZXMtJFhHuEYZGPMUuodyqroT1dQEXIPXX3zYqDvwAKHyqePTeTXj6Ewt-ljiRUlAQuyLCuKN0P5GdJxoklYMVUFzkuPdURfr0hzb5-fYnIu21WzngMurQ7MvTzuE9FnxOHgjTSQKema9qy6PJGq9xs84EeSh5MDMIcr7mKhm0Gg2GLwYZgW1oIQ9pzqoed-qHga98T4Pmilx-_bqgoF3QmeOyQXT8QgpRqPA1yJPhYCr1AwaVHt6Rp3-=w1056-h577-s-no?authuser=0)  
 
 
 
