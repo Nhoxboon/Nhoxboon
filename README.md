@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm passionate about building immersive games, creating in
 <div align="left">
   <h3>🌟 Featured Projects</h3>
 
-### [1. 2D Platformer Adventure](https://github.com/Nhoxboon/Mega-man.git)
+### [1. 2D Platformer Adventure](https://github.com/Nhoxboon/Pro_3.git)
 A classic 2D platformer inspired by *Celeste* and *Mega-man X*. Includes:
 - Dynamic character controls (run, jump, climb)
 - Enemy AI and boss fights
