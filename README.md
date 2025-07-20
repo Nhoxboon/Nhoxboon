@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm passionate about building immersive games, creating in
 
 ###
 
+
 <div align="left">
   <h3>🛠️ Tech Stack</h3>
-
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;
@@ -35,7 +35,6 @@ Welcome to my GitHub! I'm passionate about building immersive games, creating in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
 
 </div>
 
